@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 tensorflow-hub = "*"
 jupyter = "*"
-tensorflow = "==1.13.0rc2"
+tensorflow = "==1.15.4"
 pandas = "*"
 scikit-learn = "*"
 pymagnitude = "*"
